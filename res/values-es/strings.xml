@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoearPlayer</string>
+    <string name="searchString">Buscar</string>
+    <string name="playPauseDesc">Botón Play/Pause</string>
+    <string name="noSongsFound">No se han encontrado canciones</string>
+    <string name="noMoreSongsFound">No se han encontrado más canciones para esta búsqueda</string>
+    <string name="undefinedError">Error desconocido al analizar el archivo JSON</string>
+    <string name="errorBufferingGoear">Error transmitiendo el archivo desde Goear. Vuelve a reproducir la canción o descargala y escúchala en el reproductor de música.</string>
+    <string name="chooseAnOption">Elije una opción:</string>
+   	<string name="play">Reproducir</string>
+    <string name="download">Descargar</string>
+   	<string name="loading">Cargando… Espere…</string>
+    <string name="downloadComplete">Se ha completado la descarga de %s</string>
+    <string name="downloadError">La descarga de %s ha fallado. Inténtelo de nuevo más tarde.</string>
+    <string name="playing">Reproduciendo %1$s de %2$s</string>
+    <string name="downloading">Descargando %1$s de %2$s</string>
+    <string name="errorLoadingSongToPlay">ERROR: No se ha podido reproducir la canción %1$s de %2$s por un error desconocido</string>
+	<string name="downloadExistsTitle">El archivo ya existe</string>
+	<string name="downloadExistsInfo">No se puede descargar la canción en el archivo indicado porque éste ya exista. Introduce el nombre de un fichero que no exista</string>
+	<string name="alreadyPlaying">Esta canción ya se está reproduciendo</string>
+	<string name="unavailableSDCard">No puedes descargar canciones si no hay una tarjeta SD montada</string>
+	<string name="cancel">Cancelar</string>
+</resources>

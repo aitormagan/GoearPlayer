@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoearPlayer</string>
+    <string name="searchString">Search</string>
+    <string name="playPauseDesc">Play/Pause Button</string>
+    <string name="noSongsFound">No songs found</string>
+    <string name="noMoreSongsFound">There are no more song for that query</string>
+    <string name="undefinedError">Unknown error while parsing the JSON file</string>
+    <string name="errorBufferingGoear">Error: Unable to play the song. Try downloading the song and playing it in Music Player</string>
+    <string name="chooseAnOption">Choose an option:</string>
+   	<string name="play">Play</string>
+    <string name="download">Download</string>
+   	<string name="loading">Loading… Please wait…</string>
+    <string name="downloadComplete">%s successfully downloaded</string>
+    <string name="downloadError">%s could not be downloaded due an error. Try again later.</string>
+    <string name="playing">Playing %1$s by %2$s</string>
+    <string name="downloading">Downloading %1$s by %2$s</string>
+    <string name="errorLoadingSongToPlay">ERROR: Unable to load the song %1$s of %2$s due an unknown error</string>
+	<string name="downloadExistsTitle">The file already exists</string>
+	<string name="downloadExistsInfo">Unable to download the song because the indicated file already exists. Please, introduce a file name which does not exist</string>
+	<string name="alreadyPlaying">This song is being played now</string>
+	<string name="unavailableSDCard">SD Card is unmounted so you can\'t download any song</string>
+	<string name="cancel">Cancel</string>
+</resources>
